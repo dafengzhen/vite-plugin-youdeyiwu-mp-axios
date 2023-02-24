@@ -4,6 +4,8 @@ vite-plugin-youdeyiwu-mp-axios 尤得一物-小程序 axios 插件
 
 简单移除微信小程序中不支持 axios 定义的 FormData 和 Blob
 
+Tip：axios v1.3.4 以上版本添加了对 FormData 和 Blob 检查，不需要使用插件
+
 # 1. 相关
 
 尤得一物-小程序 [youdeyiwu-mp](https://github.com/dafengzhen/youdeyiwu-mp)
